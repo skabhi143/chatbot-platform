@@ -75,6 +75,11 @@ Each request requires a valid Bearer token.
 
 ---
 
+## Notes
+This project focuses on backend functionality. APIs were tested locally and demonstrated via video. Environment variables are used for sensitive configuration such as JWT secrets.
+
+
+
 ## 👤 Author
 
 S K Abhishek  
